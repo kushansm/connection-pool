@@ -1,4 +1,4 @@
-package lk.ijse.dep13.interthreadcomunication;
+package lk.ijse.dep13.interthreadcommunication;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
